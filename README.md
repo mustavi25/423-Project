@@ -36,7 +36,6 @@ The game is third-person perspective where the camera is placed behind and above
 GAME OVER:
 The Game Over has been activated upon the health of the plane reaching zero and the flight is conclusively ended. When this occurs, it locks up all the controls of the player and the plane halts. A "GAME OVER" text will then be shown prominently at the screen, together with the final score of the player and the current playthrough is terminated.
 
-
 KEYBOARD CONTROLS:
 Arrow Up: Tilt the plane upward (pitch up)
 Arrow Down: Tilt the plane downward (pitch down)
@@ -51,10 +50,10 @@ Arrow Right: Move the plane right
 'P' and 'p': Toggle Power Mode (enables shooting)
 'G' and 'g': Toggle Ghost Mode (only active during rain)
 Spacebar: Fire a weapon when Power Mode is ON
-Esc: Exit the game.
-'b' = barrel roll mode on
+“B” : Barrel Roll mode
 
-MOUSE CONTROLS:
-Left Click: Increases the planes speed
-Right Click: Decreases the planes speed
+
+
+
+
 

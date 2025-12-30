@@ -33,6 +33,9 @@ First person perspective mode is a camera perspective that puts the player's poi
 * Third Person Perspective: 
 The game is third-person perspective where the camera is placed behind and above the plane where the player is able to see the plane, obstacles and collectibles as he or she navigates through the environment.
 
+*MINI-MAP:
+a minimap is shown on the top right side of the screen to see the obstacle positions and collectibles through a 200 x 200 sized minimap.It can be turned on and off.
+
 GAME OVER:
 The Game Over has been activated upon the health of the plane reaching zero and the flight is conclusively ended. When this occurs, it locks up all the controls of the player and the plane halts. A "GAME OVER" text will then be shown prominently at the screen, together with the final score of the player and the current playthrough is terminated.
 
@@ -51,6 +54,7 @@ KEYBOARD CONTROLS:
 * 'G' and 'g': Toggle Ghost Mode (only active during rain)
 * Spacebar: Fire a weapon when Power Mode is ON
 * 'B' : Barrel Roll mode
+* 'm': minimap on/off
 
 MOUSE CONTROLS:
 * Left click: Increase speed

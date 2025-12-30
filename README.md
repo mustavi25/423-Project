@@ -33,7 +33,7 @@ First person perspective mode is a camera perspective that puts the player's poi
 * Third Person Perspective: 
 The game is third-person perspective where the camera is placed behind and above the plane where the player is able to see the plane, obstacles and collectibles as he or she navigates through the environment.
 
-*MINI-MAP:
+* MINI-MAP:
 a minimap is shown on the top right side of the screen to see the obstacle positions and collectibles through a 200 x 200 sized minimap.It can be turned on and off.
 
 GAME OVER:
